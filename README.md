@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
