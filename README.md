@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
@@ -272,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
