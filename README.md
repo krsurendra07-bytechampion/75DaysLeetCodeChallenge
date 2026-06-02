@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
