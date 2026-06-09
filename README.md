@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
