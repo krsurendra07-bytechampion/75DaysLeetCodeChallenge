@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
