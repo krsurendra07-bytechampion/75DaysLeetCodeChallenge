@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krsurendra07-bytechampion/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
